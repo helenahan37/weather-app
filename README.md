@@ -13,3 +13,5 @@ It displays dynamic weather icons based on the weather conditions returned by th
 #### City Search Functionality:
 
 It provides an input field where users can type the name of a city, and upon entering the city name, it retrieves and displays the weather information for that city.
+
+![Weather App](./src/docs/Sample%20pic.png)
